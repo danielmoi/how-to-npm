@@ -1,13 +1,13 @@
 {
   "name": "@danielmoi/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodeschool how-to-npm",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "repository": "http://github.com",
-  "author": "",
+  "repository": "https://github.com/danielmoi/how-to-npm.git",
+  "author": "Daniel Moi",
   "license": "ISC",
   "devDependencies": {
     "@linclark/pkg": "^1.0.2"
